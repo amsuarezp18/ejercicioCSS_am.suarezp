@@ -1,0 +1,14 @@
+input[type=text]{
+    background-color: greenyellow;
+    width: 150px;
+    margin-bottom:10px;
+}
+
+body{
+    font-size: large;
+    font-weight: bolder;
+}
+
+#age{
+    color: orangered;
+}
